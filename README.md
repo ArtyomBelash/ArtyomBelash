@@ -1,16 +1,15 @@
 ## Hi there 👋
+My name is Artyom. I am a passionate Python developer in web development.
 
-<!--
-**ArtyomBelash/ArtyomBelash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+Programming Languages: Python
+Web Development: HTML, CSS
+Frameworks: Django, DRF, FastAPI
+Databases: MySQL, PostgreSQL
+Version Control: Git
+Deployment: Docker
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+LinkedIn: https://www.linkedin.com/in/artyom-belash-b9b201183/
+Email: arteniy999@gmail.com
+Telegram: https://t.me/artybossone
